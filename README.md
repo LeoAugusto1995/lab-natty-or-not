@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Diferenciando Trabalho Humano de IA Generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora a distinção entre trabalhos criados por humanos e aqueles gerados por IAs generativas. Ele busca identificar e destacar as sutilezas e diferenças que podem ajudar a diferenciar um trabalho manual de um automatizado.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- OpenAI GPT-4
+- Ferramentas de Processamento de Linguagem Natural (NLP)
+- Análise de Texto e Algoritmos de Classificação
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Pesquisa e Coleta de Dados**: Coletamos exemplos de trabalhos humanos e gerados por IA em diversos campos, como redação, arte e programação.
+2. **Análise e Caracterização**: Usamos técnicas de NLP para analisar características textuais e estilísticas dos exemplos coletados.
+3. **Desenvolvimento do Modelo**: Criamos modelos de classificação para prever se um trabalho foi feito por um humano ou uma IA com base nas características identificadas.
+4. **Validação**: Testamos e refinamos o modelo usando um conjunto de dados de validação para garantir precisão e confiabilidade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados mostraram que, embora as IAs gerativas tenham avançado significativamente, ainda existem certos padrões e nuances que são mais facilmente identificáveis nos trabalhos humanos. Nossa análise identificou várias métricas e características que podem ser usadas para distinguir entre os dois tipos de trabalho com uma precisão significativa.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar um projeto que diferencia trabalhos 'natty' de IAs foi um desafio fascinante. A capacidade das IAs de emular o estilo humano está em constante evolução, tornando a linha entre o artificial e o humano cada vez mais tênue. Este projeto foi uma oportunidade de explorar essas fronteiras e entender melhor como a tecnologia pode tanto imitar quanto diferir da criatividade humana.
